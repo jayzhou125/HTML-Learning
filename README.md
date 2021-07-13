@@ -29,7 +29,7 @@
                 ```
 
         - Document Object Model (DOM)
-            - ![DOM image](/screenshots/DOM.png)
+            ![DOM image](/screenshots/DOM.png)
 
     - Hello Markup
 
