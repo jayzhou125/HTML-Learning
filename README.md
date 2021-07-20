@@ -220,3 +220,10 @@
             				<script src="//html5shiv.googlecode.com/svn/trunk/html5.js></script>
             			<![endif]-->
             ```
+
+	- Summary
+		- HTML has always been written by the winners — the browser makers.
+		- Don't let HTML5 as a moniker scare you. It's a catch-all for a set of web technologies.
+		- At it's core, HTML is just structural markup...a way to describe a hierarchical document.
+		- Form elements in HTML are for accepting input, the rest is primarily for display.
+		- Browsers inequality means you'll want to use simple techniques to level the playing field.
